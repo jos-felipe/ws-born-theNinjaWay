@@ -1,6 +1,7 @@
 # Born2beRoot - The Ninja Way
 Workshop on Deploying **LVM (Logical Volume Manager)** to support high-availability applications. 
-An introdutory discusion about critical infraestructure with a hands-on the steps needed to modify server filesystem with zero-downtime.    
+
+An introductory discussion about critical infrastructure with a hands-on the steps needed to accomplish of a technical task on a server with zero-downtime and sensitive data requirements. 
 
 ## Target Audience
 <ul>
