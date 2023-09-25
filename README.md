@@ -13,5 +13,6 @@ Workshop on How-To Deploy **LVM (Logical Volume Manager)** to support high-avail
   <li>Macbook disk ≥ 500Gb, mem ≥ 8Gb, HDMI output</li>
   <li>Internet access (WiFi)</li>
   <li>VirtualBox</li>
+  <li>SSH Client</li>
   <li>Big screen TV with HDMI input</li>
 </ul>
