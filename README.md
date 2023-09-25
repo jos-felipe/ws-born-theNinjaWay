@@ -1,5 +1,6 @@
 # Born2beRoot - The Ninja Way
-Workshop on How-To Deploy **LVM (Logical Volume Manager)** to support high-availability applications
+Workshop on Deploying **LVM (Logical Volume Manager)** to support high-availability applications. 
+An introdutory discusion about critical infraestructure with a hands-on the steps needed to modify server filesystem with zero-downtime.    
 
 ## Target Audience
 <ul>
