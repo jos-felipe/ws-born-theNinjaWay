@@ -1,4 +1,4 @@
-# Born2beRoot- The Ninja Way
+# Born2beRoot - The Ninja Way
 Workshop on How-To Deploy **LVM (Logical Volume Manager)** to support high-availability applications
 
 ## Target Audience
